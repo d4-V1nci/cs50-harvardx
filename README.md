@@ -16,7 +16,7 @@ Could be tested via: [https://scratch.mit.edu](https://scratch.mit.edu)
 
 ### Week 1 (pset1) - C
 
-A solution for cs50's - <a href="https://cs50.harvard.edu/x/2020/psets/1/" target="_blank">https://cs50.harvard.edu/x/2020/psets/1/</a>
+A solution for cs50's - [https://cs50.harvard.edu/x/2020/psets/1/](https://cs50.harvard.edu/x/2020/psets/1/)
 
 `hello.c` - say hello to user input
 
@@ -26,14 +26,14 @@ A solution for cs50's - <a href="https://cs50.harvard.edu/x/2020/psets/1/" targe
 
 `mairo_reversed_string.c` - full piramid by reversing left side (tests not passed)
 
-`cash.c` - <a href="https://en.wikipedia.org/wiki/Greedy_algorithm" target="_blank">Greedy algorithm</a>
+`cash.c` - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
 
-`credit.c` - credit card validation problem <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Luhn algorithm</a>
+`credit.c` - credit card validation problem [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
 
 ### Week 2 (pset2) - C (Arrays)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/2/" target="_blank">https://cs50.harvard.edu/x/2020/psets/2/</a>
+[https://cs50.harvard.edu/x/2020/psets/2/](https://cs50.harvard.edu/x/2020/psets/2/)
 
-`readability.c` - coutn readability grade. <a href="https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index" target="_blank">Coleman-Liau index</a>
+`readability.c` - coutn readability grade. [Coleman-Liau index](https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index)
 
-`caesar.c` - <a href="https://en.wikipedia.org/wiki/Caesar_cipher" target="_blank">Caesar cipher</a> implementation on pure C (C99)
+`caesar.c` - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) implementation on pure C (C99)
