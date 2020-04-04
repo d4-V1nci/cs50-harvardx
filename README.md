@@ -26,9 +26,9 @@ A solution for cs50's - [https://cs50.harvard.edu/x/2020/psets/1/](https://cs50.
 
 `mairo_reversed_string.c` - full piramid by reversing left side (tests not passed)
 
-`cash.c` - greedy algorythm
+`cash.c` - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
 
-`credit.c` - credit card validation problem (Luhn)
+`credit.c` - credit card validation problem [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
 
 ### Week 2 (pset2) - C (Arrays)
 
