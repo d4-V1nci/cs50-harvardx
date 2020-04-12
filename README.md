@@ -37,3 +37,5 @@ A solution for cs50's - [https://cs50.harvard.edu/x/2020/psets/1/](https://cs50.
 `readability.c` - coutn readability grade. [Coleman-Liau index](https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index)
 
 `caesar.c` - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) implementation on pure C (C99)
+
+`substitution.c` - [Substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
