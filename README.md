@@ -38,4 +38,11 @@ A solution for cs50's - [https://cs50.harvard.edu/x/2020/psets/1/](https://cs50.
 
 `caesar.c` - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) implementation on pure C (C99)
 
-`substitution.c` - [Substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
+`substitution.c` - [Substitution cipher](https://en.wikipedia.org/wiki/Substitution_
+
+### Week 3 (pset3) - C
+
+[https://cs50.harvard.edu/x/2020/psets/3/](https://cs50.harvard.edu/x/2020/psets/3/)
+
+`plurality.c` - [https://cs50.harvard.edu/x/2020/psets/3/plurality/](https://cs50.harvard.edu/x/2020/psets/3/plurality/)
+
